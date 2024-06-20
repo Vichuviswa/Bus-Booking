@@ -33,11 +33,11 @@ class bus{
         	 }
         	 else if(seatview[i][j]==-1)
         	 {
-        		 System.out.print(" M ");
+        		 System.out.print(" Male ");
         	 }
         	 else
         	 {
-        		 System.out.print(" F ");
+        		 System.out.print(" Female ");
         	 }
          }
          System.out.println();
